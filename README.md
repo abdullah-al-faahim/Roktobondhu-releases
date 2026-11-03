@@ -30,6 +30,38 @@ It is built privacy-first. Nobody sees where a donor lives, and phone numbers ar
 
 > **This first release is a demo.** It runs on sample donors, hospitals and requests stored on your phone, so you can try every step without a server. See [Try the demo](#try-the-demo).
 
+## Screenshots
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/04-map.png" width="230" alt="Live map"><br><sub><b>Live map: donor areas and requests</b></sub></td>
+    <td align="center"><img src="screenshots/05-alert.png" width="230" alt="Request alert"><br><sub><b>Alert for a nearby request</b></sub></td>
+    <td align="center"><img src="screenshots/07-trip.png" width="230" alt="On the way"><br><sub><b>On the way, sharing location</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/12-track.png" width="230" alt="Family tracks the donor"><br><sub><b>The family sees the donor coming</b></sub></td>
+    <td align="center"><img src="screenshots/11-donor-coming.png" width="230" alt="Who accepted"><br><sub><b>Call, track, confirm the donation</b></sub></td>
+    <td align="center"><img src="screenshots/09-request.png" width="230" alt="Request blood"><br><sub><b>Request blood in one screen</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/10-no-money.png" width="230" alt="No money"><br><sub><b>Requests that mention money are blocked</b></sub></td>
+    <td align="center"><img src="screenshots/06-accepted.png" width="230" alt="After accepting"><br><sub><b>Phone shared only after accept</b></sub></td>
+    <td align="center"><img src="screenshots/08-donors.png" width="230" alt="Donor list"><br><sub><b>Donors nearby, area only</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/02-profile.png" width="230" alt="Profile setup"><br><sub><b>Knows when you can donate</b></sub></td>
+    <td align="center"><img src="screenshots/03-consent.png" width="230" alt="Location consent"><br><sub><b>Plain-language location consent</b></sub></td>
+    <td align="center"><img src="screenshots/01-language.png" width="230" alt="Choose a language"><br><sub><b>Bangla or English</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/13-map-english.png" width="230" alt="English"><br><sub><b>Fully in English too</b></sub></td>
+    <td align="center"><img src="screenshots/14-dark-profile.png" width="230" alt="Dark theme"><br><sub><b>Dark theme</b></sub></td>
+    <td align="center"><img src="screenshots/15-dark-donors.png" width="230" alt="Dark theme donors"><br><sub><b>Dark theme: donors</b></sub></td>
+  </tr>
+</table>
+</div>
+
 ## What's inside
 
 | | |
@@ -44,7 +76,7 @@ It is built privacy-first. Nobody sees where a donor lives, and phone numbers ar
 | 👥 **Find donors for planned needs** | A list of donors nearby, filtered by blood group and distance, showing only their area and a rounded distance. |
 | 🚨 **Call 999** | Every request screen has a shortcut to call 999 for a true emergency. |
 | 🚫 **No money, ever** | Donation is voluntary. A request that mentions taka, payment, bKash or a reward is blocked, and you can report any request that looks fake or asks for money. |
-| 🌐 **Bangla first** | The whole app works in Bangla or English, with Bangla digits in Bangla. Blood groups always read the same: O+, AB−. |
+| 🌐 **Bangla first** | The whole app works in Bangla or English, with Bangla digits in Bangla. Bangla text is set in **Purno**, the Bangla typeface from BCC, ICT Division, built into the app so it looks the same on every phone, even offline. Blood groups always read the same: O+, AB−. |
 | 🌗 **Light and dark** | Follows your phone. The map stays dark in both, so the pins stand out. |
 
 ## Your privacy
@@ -143,6 +175,12 @@ No. Roktobondhu is for voluntary donation only. Requests that mention money are 
 
 <sub>বিনামূল্যে · বিজ্ঞাপন নেই · শুধু স্বেচ্ছায় রক্তদান · অ্যান্ড্রয়েড ৭.০ বা নতুন · প্রায় ৪১ এমবি</sub>
 
+</div>
+
+<div align="center">
+<img src="screenshots/04-map.png" width="200" alt="লাইভ মানচিত্র">
+<img src="screenshots/05-alert.png" width="200" alt="অনুরোধের খবর">
+<img src="screenshots/12-track.png" width="200" alt="রক্তদাতা আসছেন">
 </div>
 
 **রক্তবন্ধু** রক্তদাতা আর রোগীর পরিবারকে একটি লাইভ মানচিত্রে যুক্ত করে, যাতে কাছের যে রক্তদাতা এখন দিতে পারবেন, তাকে কয়েক মিনিটেই খুঁজে পাওয়া যায়।
