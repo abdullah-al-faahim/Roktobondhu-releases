@@ -69,8 +69,8 @@
   <!-- Text -->
   <g font-family="'Anek Bangla','Hind Siliguri','Noto Sans Bengali','Nirmala UI','Kohinoor Bangla','Bangla Sangam MN','Vrinda',sans-serif">
     <text x="72" y="118" font-size="18" font-weight="700" letter-spacing="2.4" fill="#FF6B7D" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">BLOOD DONOR APP · BANGLADESH</text>
-    <text x="68" y="222" font-size="104" font-weight="700" fill="#F5EFEA">রক্তবন্ধু</text>
-    <text x="72" y="322" font-size="46" font-weight="700" fill="#F5EFEA" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">Roktobondhu</text>
+    <text x="68" y="206" font-size="90" font-weight="700" fill="#F5EFEA">রক্তবন্ধু</text>
+    <text x="72" y="334" font-size="44" font-weight="700" fill="#F5EFEA" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">Roktobondhu</text>
     <text x="72" y="392" font-size="30" fill="#BDB0A8">রক্ত দিন, জীবন বাঁচান</text>
     <text x="72" y="436" font-size="24" fill="#BDB0A8" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">Find blood donors near you on a live map.</text>
   </g>
