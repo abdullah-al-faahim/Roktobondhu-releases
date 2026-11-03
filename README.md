@@ -8,7 +8,7 @@
   <img src="assets/download.svg" alt="Download the Android app" height="76">
 </a>
 
-<sub>Free · no ads · voluntary donation only · Android 7.0 or newer · about 41 MB</sub>
+<sub>Free · no ads · voluntary donation only · Android 7.0 or newer · about 33 MB</sub>
 
 <br><br>
 
@@ -159,7 +159,9 @@ No. Roktobondhu is for voluntary donation only. Requests that mention money are 
 
 ## What's new
 
-**0.1.0** is the first demo: live OpenStreetMap map, requests, alerts to donors, accept and live tracking, call and route, confirming a donation, the donor list and eligibility dates, in Bangla and English. See every version on the [releases page](https://github.com/abdullah-al-faahim/Roktobondhu-releases/releases).
+**0.1.1** sets Bangla in the Purno font, fixes the blank trip screen, makes the map smoother, keeps the Requests tab up to date, and shows area names in Bangla. If you have 0.1.0, uninstall it first, then install 0.1.1.
+
+**0.1.0** was the first demo: live OpenStreetMap map, requests, alerts to donors, accept and live tracking, call and route, confirming a donation, the donor list and eligibility dates, in Bangla and English. See every version on the [releases page](https://github.com/abdullah-al-faahim/Roktobondhu-releases/releases).
 
 ---
 
@@ -173,7 +175,7 @@ No. Roktobondhu is for voluntary donation only. Requests that mention money are 
   <img src="assets/download.svg" alt="অ্যান্ড্রয়েড অ্যাপ ডাউনলোড করুন" height="72">
 </a>
 
-<sub>বিনামূল্যে · বিজ্ঞাপন নেই · শুধু স্বেচ্ছায় রক্তদান · অ্যান্ড্রয়েড ৭.০ বা নতুন · প্রায় ৪১ এমবি</sub>
+<sub>বিনামূল্যে · বিজ্ঞাপন নেই · শুধু স্বেচ্ছায় রক্তদান · অ্যান্ড্রয়েড ৭.০ বা নতুন · প্রায় ৩৩ এমবি</sub>
 
 </div>
 
